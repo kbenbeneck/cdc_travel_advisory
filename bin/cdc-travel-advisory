@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require "bundler/setup"
+require './lib/cdc_travel_advisory/travel_health_notice.rb'
+CdcTravelAdvisory::CLI.new.call
