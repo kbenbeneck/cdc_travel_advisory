@@ -3,7 +3,6 @@ class CdcTravelAdvisory::Notice
     @@all = []
     
     def initialize(issue, last_update, summary, more_info_url, key_points)
-
         @@all << self
     end
 
