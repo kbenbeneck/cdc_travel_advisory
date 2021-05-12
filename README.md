@@ -23,7 +23,8 @@ Type the below and follow the on screen prompts.
 
     $ ./bin/cdc-travel-advisory
 
-
+## Blog Post
+https://kbenbeneck.github.io/cli_project_blog  
     
 
 ## Development
