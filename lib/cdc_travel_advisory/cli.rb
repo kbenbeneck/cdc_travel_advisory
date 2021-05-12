@@ -21,7 +21,7 @@ class CdcTravelAdvisory::CLI
         
         input = nil 
         while input != "exit"
-            puts "Enter the number you'd like more info on or type or type exit:"
+            puts "Enter the number you'd like more info on or type exit:"
             input = gets.strip.downcase
 
             if input.to_i > 0 && input.to_i <= @notices.length
