@@ -22,7 +22,7 @@ Or install it yourself as:
 Type the below and follow the on screen prompts.
 
     $ ./bin/cdc-travel-advisory
-
+![img](run.png)
 ## Blog Post
 https://kbenbeneck.github.io/cli_project_blog  
     
